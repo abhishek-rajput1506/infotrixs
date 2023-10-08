@@ -1,12 +1,14 @@
 # Currency Converter Command-Line Application Documentation
 
+You can download the executable JAR file of this Java command-line currency converter application from the following link: [Currency Converter JAR](https://drive.google.com/file/d/1UMCbbTt00ruIXcrF_iBLVlTieETy_RGK/view?usp=drive_link)
+
 ## Overview
 
 This Java command-line application allows you to perform various currency-related operations, including managing a list of favorite currencies, adding and removing currencies from the list, and converting an amount from one currency to another using the latest exchange rates obtained from the web.
 
 ## Usage
 
-To use the application, run the JAR file with one of the following command-line options:
+To use the application, download the JAR file from the provided link and run it with one of the following command-line options:
 
 ### List Favorite Currencies
 
@@ -30,7 +32,7 @@ Example:
 java -jar task1.jar -a USD US_Dollar
 ```
 
-This command adds the US_Dollar (USD) to the list of favorite currencies with the name "US_Dollar."(Please don't use as "US Dollar")
+This command adds the US_Dollar (USD) to the list of favorite currencies with the name "US_Dollar."
 
 ### Remove Currency from Favorite List
 
